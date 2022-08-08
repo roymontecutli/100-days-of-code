@@ -21,6 +21,18 @@ The log of my #100DaysOfCode challenge. Started on August 5th,  2022.
 	airflow webserver --port 8080
 	airflow scheduler
 	```
+### R1D3
+- Setup mariadb
+	- Old configuration from a previous mysqldb installation caused issues, [fix](https://stackoverflow.com/questions/65753443/how-to-fix-innodb-corrupted-data-structure), also [apparmor fix](https://serverfault.com/questions/1013128/mariadb-service-start-stuck-at-activating)
+	- secure setup of the db
+- Diagnostic quiz
+	- need to work on headers and verbs differences for HTTP
+	- network diagnostics
+		- traceroute options
+		- ifconfig
+		- ip
+		- route
+
 
 ### TODO
 - setup Kubernetes
