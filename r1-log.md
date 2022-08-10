@@ -38,6 +38,10 @@ The log of my #100DaysOfCode challenge. Started on August 5th,  2022.
 - Designed DB schema for time tracker application
 - Separate user for the application
 
+### R1D5
+- Refresher java Swing GUI
+- modeling input queries
+
 ### TODO
 - setup Kubernetes
 - [setup MySQL for quick tests](https://kubernetes.io/docs/tasks/run-application/run-single-instance-stateful-application/)
