@@ -42,6 +42,9 @@ The log of my #100DaysOfCode challenge. Started on August 5th,  2022.
 - Refresher java Swing GUI
 - modeling input queries
 
+### R1D6
+- Refresher query profiling in MySQL/MariaDB
+
 ### TODO
 - setup Kubernetes
 - [setup MySQL for quick tests](https://kubernetes.io/docs/tasks/run-application/run-single-instance-stateful-application/)
