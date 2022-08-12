@@ -45,6 +45,10 @@ The log of my #100DaysOfCode challenge. Started on August 5th,  2022.
 ### R1D6
 - Refresher query profiling in MySQL/MariaDB
 
+### R1D7
+- Setup WindowBuilder for Eclipse
+- Backbone swift interface for homepage time tracker
+
 ### TODO
 - setup Kubernetes
 - [setup MySQL for quick tests](https://kubernetes.io/docs/tasks/run-application/run-single-instance-stateful-application/)
