@@ -47,7 +47,11 @@ The log of my #100DaysOfCode challenge. Started on August 5th,  2022.
 
 ### R1D7
 - Setup WindowBuilder for Eclipse
-- Backbone swift interface for homepage time tracker
+- Backbone swing interface for homepage time tracker
+
+### R1D8
+- Connected Swing homepage to MariaDB
+- Homepage is iterating and showing dynamically projects from the DB
 
 ### TODO
 - setup Kubernetes
