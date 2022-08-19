@@ -56,6 +56,9 @@ The log of my #100DaysOfCode challenge. Started on August 5th,  2022.
 ### R1D9-D11
 - Reading Shapira, G., Palina, T., et.al. Kafka, the definitive guide, 2nd Edition, O'Reilly
 
+### R1D12
+- Continue reading Kafka definitive guide
+
 ### TODO
 - setup Kubernetes
 - [setup MySQL for quick tests](https://kubernetes.io/docs/tasks/run-application/run-single-instance-stateful-application/)
